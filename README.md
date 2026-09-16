@@ -204,7 +204,7 @@ This project was created as part of my **Power BI/Data Analytics portfolio** to 
 ---
 
 ## Dashboard & Overview
-This is how dashboard looks - 
-Preview - 
-
+This is how dashboard looks - ![Alt text](https://github.com/Nikhillls/Payment-Transaction-Visual-dashbord-/blob/main/Payment%20Analytics%20%26%20Insights%20P1.pbit)
+Preview -![Dasboard preview](https://github.com/Nikhillls/Payment-Transaction-Visual-dashbord-/blob/main/Dashboard%20overview.png)
+ 
 
